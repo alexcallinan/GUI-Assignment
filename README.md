@@ -10,3 +10,4 @@
 - The figure will be redrawn at a new location on the canvas for the user to play again.
 
 - The same steps will be repeat until the end of the game.
+It is assumed the user knows how to quit using CTRL-C.
